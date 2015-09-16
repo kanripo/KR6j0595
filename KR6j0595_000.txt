@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 八名普密陀羅尼經
+#+DATE: 2015-08-30 20:35:55.873331
+#+PROPERTY: JUAN 0
