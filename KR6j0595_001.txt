@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:55.697163
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:35
 #+TITLE: 八名普密陀羅尼經
 #+PROPERTY: CBETA_ID T21n1365
 #+PROPERTY: ID KR6j0595
